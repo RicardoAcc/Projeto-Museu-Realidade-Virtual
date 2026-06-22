@@ -8,8 +8,8 @@ const AR_POINTS = [
   {
     id: "ra-releitura-1",
     image: "assets/releitura-1.svg",
-    latitude: -4.969230786535644,
-    longitude: -39.01400735780016,
+    latitude: -4.963856792480823,
+    longitude: -39.02575945854149,
     width: 4,
     height: 2.6,
     scale: "10 10 10"
@@ -17,8 +17,8 @@ const AR_POINTS = [
   {
     id: "ra-releitura-2",
     image: "assets/releitura-2.svg",
-    latitude: -4.969230786535644,
-    longitude: -39.01400735780016,
+    latitude: -4.963856792480823,
+    longitude: -39.02575945854149,
     width: 4,
     height: 2.6,
     scale: "10 10 10"
@@ -26,8 +26,8 @@ const AR_POINTS = [
   {
     id: "ra-releitura-3",
     image: "assets/releitura-3.svg",
-    latitude: -4.969230786535644,
-    longitude: -39.01400735780016,
+    latitude: -4.963856792480823,
+    longitude: -39.02575945854149,
     width: 4,
     height: 2.6,
     scale: "10 10 10"
